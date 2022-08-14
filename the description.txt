@@ -1,0 +1,8 @@
+
+The demo code is Voters casting their vote to candidates.
+Whenever the Voter's cast their vote , in the candidate table , the vote count is incremented by 1 for the candidate for whom
+the voter's voted.
+Testcases are present. Please revise.
+Happy Learning!!!!!!!!!!!!!!!!
+
+
